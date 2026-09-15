@@ -1,1 +1,1 @@
-print('Hello Sofa')
+Pip install pandas
